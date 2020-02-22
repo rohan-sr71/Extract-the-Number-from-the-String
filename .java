@@ -4,7 +4,6 @@ import java.io.*;
 class Rohan
 {
 	public static void main (String[] args) {
-		//code
 	Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();
 		sc.nextLine();
