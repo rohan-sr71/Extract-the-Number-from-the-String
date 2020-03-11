@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Rohan
+class Rohan1
 {
 	public static void main (String[] args) {
 	Scanner sc=new Scanner(System.in);
